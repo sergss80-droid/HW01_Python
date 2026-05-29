@@ -1,5 +1,7 @@
 def serg(num):
     print(num)
+
+
 serg(88005553535)
 serg(88005553535)
 serg(88005553535)
